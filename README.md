@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=da4600&center=true&vCenter=true&width=490&lines=Ciao,+sono+Alessio+Paolucci.;Ingegnere+Informatico+e+dell'Automazione.;Appassionato+di+AI,+Data+Science+e+Web.;Sviluppo+soluzioni+innovative.;Benvenuti+nel+mio+spazio+digitale!" alt="Typing SVG">
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alessio-paolucci&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alessio-paolucci&theme=dracula&hide_border=true" alt="GitHub Streak">
-</p>
-
 👋 Ciao! Sono **Alessio Paolucci**, Ingegnere Informatico e dell'Automazione specializzato nelle nuove frontiere tecnologiche. Sto completando la mia Laurea Magistrale in Ingegneria Informatica e dell'Automazione presso l'Università Politecnica delle Marche con una forte inclinazione verso l'Intelligenza Artificiale, la Data Science e la Mixed Reality. La mia data presunta di conseguimento della laurea magistrale è ottobre 2025.
 
 Sono un professionista proattivo con spiccate capacità di leadership e comunicazione, maturate anche in contesti non accademici.
