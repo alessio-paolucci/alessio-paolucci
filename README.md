@@ -2,8 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=da4600&center=true&vCenter=true&width=490&lines=Ciao,+sono+Alessio+Paolucci.;Ingegnere+Informatico+e+dell'Automazione.;Appassionato+di+AI,+Data+Science+e+Web.;Sviluppo+soluzioni+innovative.;Benvenuti+nel+mio+spazio+digitale!" alt="Typing SVG">
 </p>
 
-👋 Ciao! Sono **Alessio Paolucci**, Ingegnere Informatico e dell'Automazione specializzato nelle nuove frontiere tecnologiche. Sto completando la mia Laurea Magistrale in Ingegneria Informatica e dell'Automazione presso l'Università Politecnica delle Marche con una forte inclinazione verso l'Intelligenza Artificiale, la Data Science e la Mixed Reality. La mia data presunta di conseguimento della laurea magistrale è ottobre 2025.
-
+👋 Ciao! Sono **Alessio Paolucci**, Ingegnere Informatico e dell'Automazione specializzato nelle nuove frontiere tecnologiche. Ho conseguito la mia Laurea Magistrale (110 su 110) in Ingegneria Informatica e dell'Automazione presso l'Università Politecnica delle Marche con una forte inclinazione verso l'Intelligenza Artificiale, la Data Science e la Mixed Reality. 
 Sono un professionista proattivo con spiccate capacità di leadership e comunicazione, maturate anche in contesti non accademici.
 
 ### 🚀 Le Mie Aree di Interesse
